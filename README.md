@@ -1,4 +1,3 @@
 # Save bee bug trap
-
-##Usage
+## Usage
 
